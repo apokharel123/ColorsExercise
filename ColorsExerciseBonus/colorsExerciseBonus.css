@@ -1,0 +1,38 @@
+h1 {
+    color:#0000ff;
+
+  }
+h1 {
+    background-color: #610;
+}
+  
+  h2 {
+      color: purple; background-color: aqua;
+  }
+  h3 {
+      color: #610; background-color: blueviolet;
+  }
+  h4 {
+      color:#00ff00ff ; background-color: bisque;
+   }
+  
+  h5 {
+      color: #f00f; background-color: cadetblue;
+  
+  }
+  h6 {
+      color: rgb(225, 100, 75); background-color: darkorange;
+  }
+  p {
+      color: rgba(100, 200, 000, 0.7); background-color: gold;
+  }
+
+#first {
+    color: hotpink;
+}
+#third {
+    background-color: peachpuff;
+}
+#first, #third {
+    border-width: 5px;border-style: solid;border-color: green;
+}
