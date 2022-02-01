@@ -7,17 +7,17 @@ h1 {
 }
   
   h2 {
-      color: purple; background-color: aqua;
+      color: purple; background-color: green;
   }
   h3 {
-      color: #610; background-color: blueviolet;
+      color: #000; background-color: indigo;
   }
   h4 {
-      color:#00ff00ff ; background-color: bisque;
+      color:#00ff00ff ; background-color: violet;
    }
   
   h5 {
-      color: #f00f; background-color: cadetblue;
+      color: #f00f; background-color: blue;
   
   }
   h6 {
